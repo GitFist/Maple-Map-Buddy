@@ -4,6 +4,15 @@ Find monsters, NPCs, quest items, and training spots directly on your MapleStory
 
 [Download for Windows](https://github.com/GitFist/Maple-Map-Buddy/releases/latest)
 
+![Maple Map Buddy preview: searching for Stumps](previews/monster-search.png)
+
+<details>
+<summary>Quest item search</summary>
+
+![Maple Map Buddy preview: finding Stump's Teardrop](previews/quest-item-search.png)
+
+</details>
+
 Extract the ZIP, run **VC_redist.x64.exe** once, then launch **MapleMapBuddy.exe** and open the in-game world map.
 
 Ready-to-use app. Application source code is not published.
